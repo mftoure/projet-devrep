@@ -1,0 +1,16 @@
+module.exports = {
+  env: {
+    //  HOST
+    HOST_API_KEY: 'http://localhost:8080',
+
+    // FIREBASE
+    REACT_APP_FIREBASE_API_KEY:"AIzaSyCefrf59iwxbNPHY5RD228XpyboctBRL5k",
+    REACT_APP_FIREBASE_AUTH_DOMAIN:"quickdoc-c7d60.firebaseapp.com",
+    REACT_APP_FIREBASE_PROJECT_ID:"quickdoc-c7d60",
+    REACT_APP_FIREBASE_STORAGE_BUCKET:"quickdoc-c7d60.appspot.com",
+    REACT_APP_FIREBASE_MESSAGING_SENDER_ID:"658504979182",
+    REACT_APP_FIREBASE_APPID:"1:658504979182:web:2d88a8d7474416565019f",
+
+
+  },
+}
